@@ -9,7 +9,7 @@
 #include <cctype>
 
 using namespace std;
-
+ 
 int main()
 {
 	// Ask the recruit to login using their name
